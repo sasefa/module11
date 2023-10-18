@@ -1,5 +1,6 @@
 [
     {
+        "id": "a-unique-uuid-string",
         "title":"Test Title",
         "text":"Test text"
     }
